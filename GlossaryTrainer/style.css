@@ -1,0 +1,23 @@
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  align-content: center;
+}
+
+.text-input {
+  background-color: white;
+  border: 1px solid silver;
+  border-radius: 0;
+  display: block;
+  height: 2.5em;
+  font-size: 1em;
+  outline: none;
+  padding: 1px .5em;
+  width: 15em;
+}
+
+.hide {
+  display: none;
+}
